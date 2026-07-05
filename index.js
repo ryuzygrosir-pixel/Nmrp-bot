@@ -11,7 +11,7 @@ const client = new Client({
 
 const CHANNEL_ID = "1520436922080821418";
 
-client.once("ready", () => {
+client.once("clientReady", () => {
   console.log(`Bot aktif: ${client.user.tag}`);
 
   cron.schedule("0 7,12,13,22 * * *", () => {
