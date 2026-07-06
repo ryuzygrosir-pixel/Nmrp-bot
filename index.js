@@ -15,12 +15,13 @@ function sendBell(channel, type) {
   let pesan = "";
 
   switch (type) {
+
     case "dinas":
-      pesan = `🔔 **DING... DING... DING...** 🔔
+      pesan = `🔔 DING... DING... DING... 🔔
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-📢 **BELL DINAS TELAH BERBUNYI**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+📢 BELL DINAS TELAH BERBUNYI
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ding... Ding... Ding...*
@@ -32,77 +33,89 @@ function sendBell(channel, type) {
 > Harap tetap menjaga disiplin, ketertiban, dan etika selama pelaksanaan kegiatan.
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-🇮🇩 **DISIPLIN • LOYALITAS • KEHORMATAN**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🔔 **DING... DING... DING...** 🔔
+🔔 DING... DING... DING... 🔔
 
 @everyone @here`;
       break;
 
     case "istirahat":
-      pesan = `🍽️ **BELL ISTIRAHAT SIANG** 🍽️
+      pesan = `🍽️ DING... DING... DING... 🍽️
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-📢 **WAKTU ISTIRAHAT SIANG**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+📢 BELL ISTIRAHAT SIANG
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-Seluruh personel dipersilakan melaksanakan istirahat siang.
+*Ding... Ding... Ding...*
 
-Harap kembali tepat waktu sesuai jadwal.
+**Perhatian kepada seluruh personel.**
+
+> Waktu istirahat siang telah tiba. Seluruh personel dipersilakan beristirahat dan memanfaatkan waktu dengan sebaik-baiknya.
+
+> Harap kembali tepat waktu agar kegiatan dinas dapat berjalan dengan tertib dan lancar.
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-🇮🇩 **DISIPLIN • LOYALITAS • KEHORMATAN**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🍽️ **SELAMAT BERISTIRAHAT** 🍽️
+🍽️ SELAMAT BERISTIRAHAT 🍽️
 
 @everyone @here`;
       break;
 
     case "masuk":
-      pesan = `🔔 **BELL MASUK DINAS** 🔔
+      pesan = `🔔 DING... DING... DING... 🔔
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-📢 **WAKTU ISTIRAHAT TELAH BERAKHIR**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+📢 BELL MASUK DINAS
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-Seluruh personel segera kembali melaksanakan tugas masing-masing.
+*Ding... Ding... Ding...*
 
-Tetap jaga disiplin dan profesionalisme.
+**Perhatian kepada seluruh personel.**
+
+> Waktu istirahat telah berakhir. Seluruh personel diharapkan segera kembali ke pos dan melanjutkan tugas sesuai tanggung jawab masing-masing.
+
+> Tetap jaga disiplin, loyalitas, serta profesionalisme dalam setiap pelaksanaan dinas.
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-🇮🇩 **DISIPLIN • LOYALITAS • KEHORMATAN**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🔔 **SELAMAT BERTUGAS** 🔔
+🔔 SELAMAT MELANJUTKAN DINAS 🔔
 
 @everyone @here`;
       break;
 
     case "selesai":
-      pesan = `🌙 **BELL SELESAI DINAS** 🌙
+      pesan = `🌙 DING... DING... DING... 🌙
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-📢 **DINAS HARI INI TELAH BERAKHIR**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+📢 BELL SELESAI DINAS
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-Terima kasih atas dedikasi seluruh personel.
+*Ding... Ding... Ding...*
 
-Silakan melaksanakan istirahat dan bersiap untuk dinas berikutnya.
+**Perhatian kepada seluruh personel.**
+
+> Jam dinas pada hari ini telah berakhir. Terima kasih atas dedikasi dan pengabdian seluruh personel selama menjalankan tugas.
+
+> Selamat beristirahat dan tetap jaga nama baik serta kehormatan satuan.
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-🇮🇩 **DISIPLIN • LOYALITAS • KEHORMATAN**
-**[NMRP] NUSANTARA METROPOLITAN ROLEPLAY**
+🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
+[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🌙 **SELAMAT BERISTIRAHAT** 🌙
+🌙 SELAMAT BERISTIRAHAT 🌙
 
 @everyone @here`;
       break;
@@ -114,41 +127,59 @@ Silakan melaksanakan istirahat dan bersiap untuk dinas berikutnya.
 client.once("clientReady", () => {
   console.log(`Bot aktif: ${client.user.tag}`);
 
+  // 07:00 WIB - Bell Dinas
   cron.schedule("0 7 * * *", () => {
     const channel = client.channels.cache.get(CHANNEL_ID);
     if (channel) sendBell(channel, "dinas");
-  }, { timezone: "Asia/Jakarta" });
+  }, {
+    timezone: "Asia/Jakarta"
+  });
 
+  // 12:00 WIB - Bell Istirahat
   cron.schedule("0 12 * * *", () => {
     const channel = client.channels.cache.get(CHANNEL_ID);
     if (channel) sendBell(channel, "istirahat");
-  }, { timezone: "Asia/Jakarta" });
+  }, {
+    timezone: "Asia/Jakarta"
+  });
 
+  // 13:00 WIB - Bell Masuk Dinas
   cron.schedule("0 13 * * *", () => {
     const channel = client.channels.cache.get(CHANNEL_ID);
     if (channel) sendBell(channel, "masuk");
-  }, { timezone: "Asia/Jakarta" });
+  }, {
+    timezone: "Asia/Jakarta"
+  });
 
+  // 22:00 WIB - Bell Selesai Dinas
   cron.schedule("0 22 * * *", () => {
     const channel = client.channels.cache.get(CHANNEL_ID);
     if (channel) sendBell(channel, "selesai");
-  }, { timezone: "Asia/Jakarta" });
+  }, {
+    timezone: "Asia/Jakarta"
+  });
 });
 
 client.on("messageCreate", (message) => {
   if (message.author.bot) return;
 
-  if (message.content === "/bell")
-    return sendBell(message.channel, "dinas");
+  switch (message.content.toLowerCase()) {
+    case "/bell":
+      sendBell(message.channel, "dinas");
+      break;
 
-  if (message.content === "/istirahat")
-    return sendBell(message.channel, "istirahat");
+    case "/istirahat":
+      sendBell(message.channel, "istirahat");
+      break;
 
-  if (message.content === "/masuk")
-    return sendBell(message.channel, "masuk");
+    case "/masuk":
+      sendBell(message.channel, "masuk");
+      break;
 
-  if (message.content === "/selesai")
-    return sendBell(message.channel, "selesai");
+    case "/selesai":
+      sendBell(message.channel, "selesai");
+      break;
+  }
 });
 
 client.login(process.env.TOKEN);
