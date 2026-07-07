@@ -39,7 +39,7 @@ function sendBell(channel, type) {
 
 🔔 DING... DING... DING... 🔔
 
-@everyone @here`;
+<@&1521750857581072474>`;
       break;
 
     case "istirahat":
@@ -65,7 +65,7 @@ function sendBell(channel, type) {
 
 🍽️ SELAMAT BERISTIRAHAT 🍽️
 
-@everyone @here`;
+<@&1521750857581072474>`;
       break;
 
     case "masuk":
@@ -91,7 +91,7 @@ function sendBell(channel, type) {
 
 🔔 SELAMAT MELANJUTKAN DINAS 🔔
 
-@everyone @here`;
+<@&1521750857581072474>`;
       break;
 
     case "selesai":
@@ -117,7 +117,7 @@ function sendBell(channel, type) {
 
 🌙 SELAMAT BERISTIRAHAT 🌙
 
-@everyone @here`;
+<@&1521750857581072474>`;
       break;
   }
 
