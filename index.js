@@ -9,7 +9,7 @@ const client = new Client({
   ]
 });
 
-const CHANNEL_ID = "1520436922080821418";
+const CHANNEL_ID = "1524706577955684363";
 
 function sendBell(channel, type) {
   let pesan = "";
