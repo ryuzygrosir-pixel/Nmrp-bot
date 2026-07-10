@@ -21,7 +21,7 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 📢 BELL DINAS TELAH BERBUNYI
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ding... Ding... Ding...*
@@ -34,12 +34,12 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 🔔 DING... DING... DING... 🔔
 
-<@&1521750857581072474>`;
+@everyone @here`;
       break;
 
     case "istirahat":
@@ -47,7 +47,7 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 📢 BELL ISTIRAHAT SIANG
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ding... Ding... Ding...*
@@ -60,12 +60,12 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 🍽️ SELAMAT BERISTIRAHAT 🍽️
 
-<@&1521750857581072474>`;
+@everyone @here`;
       break;
 
     case "masuk":
@@ -73,7 +73,7 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 📢 BELL MASUK DINAS
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ding... Ding... Ding...*
@@ -86,12 +86,12 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 🔔 SELAMAT MELANJUTKAN DINAS 🔔
 
-<@&1521750857581072474>`;
+@everyone @here`;
       break;
 
     case "selesai":
@@ -99,7 +99,7 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 📢 BELL SELESAI DINAS
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ding... Ding... Ding...*
@@ -112,12 +112,12 @@ function sendBell(channel, type) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 🇮🇩 DISIPLIN • LOYALITAS • KEHORMATAN
-[NMRP] NUSANTARA METROPOLITAN ROLEPLAY
+[NGWR] NEGARAWANGSA ROLEPLAY
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 🌙 SELAMAT BERISTIRAHAT 🌙
 
-<@&1521750857581072474>`;
+@everyone @here`;
       break;
   }
 
